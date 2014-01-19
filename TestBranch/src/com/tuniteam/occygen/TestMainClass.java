@@ -2,6 +2,6 @@ package com.tuniteam.occygen;
 
 public class TestMainClass {
 	
-String chaine = "branch 1 modif";
+String chaine = "line 1 to commit";
 
 }
