@@ -10,4 +10,7 @@ String chaine5 = "line 5 to commit";
 String chaine6 = "line 6 to commit";
 String chaine7 = "line 7 to commit for gerrit";
 
+String chaine11 = "line11 to commit for gerrit";
+
+
 }
