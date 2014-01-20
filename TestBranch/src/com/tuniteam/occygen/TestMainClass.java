@@ -15,6 +15,7 @@ String chaine12 = "line12 to commit for gerrit";
 String chaine119 = "line19 to commit for gerrit";
 String a1 = "a to gerrit ";
 String b = "a to gerrit ";
+String cc = "a to gerrit ";
 
 
 }
