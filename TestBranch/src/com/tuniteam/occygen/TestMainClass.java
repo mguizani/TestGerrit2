@@ -22,6 +22,7 @@ String ff = "a to gerrit ";
 String jj = "a to gerrit branch 2 ";
 String kk = "a to gerrit branch 2 ";
 String bb = "a to gerrit branch 2 ";
+String ch1 = "ch1 to gerrit branch 1 ";
 
 
 }
